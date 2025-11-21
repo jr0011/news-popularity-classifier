@@ -51,7 +51,5 @@ scikit-learn
 │   └── online_news_popularity.csv
 ├── main_project.ipynb
 ├── README.md
-├── requirements.txt
-└── results/
-    └── feature_importance_plots/
+└──  requirements.txt
 ```
