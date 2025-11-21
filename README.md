@@ -1,6 +1,7 @@
 # news-popularity-classifier
 
-BSc ML project, part of Minor Data Science and AI @ UvA
+BSc ML project, part of Minor Data Science and AI @ UvA.
+Project in collaboration with <Martyna Zimek>, <Anass Airad>
 
 **Description**
 
